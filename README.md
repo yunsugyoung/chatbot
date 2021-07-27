@@ -18,7 +18,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 앞으로 여러분들의 멋진 작품을 기대합니다.

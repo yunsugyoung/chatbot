@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/yunsugyoung/chatbot/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 윤수경 강사의 깃헙 페이지에 오신것을 환영합니다.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

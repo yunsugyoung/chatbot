@@ -1,9 +1,8 @@
 ### 윤수경 강사의 깃헙 페이지에 오신것을 환영합니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+팀별로 어떤 시나리오 주제로 챗봇을 제작하실 건가요? 
+주제와 시나리오를 정해주시고
+각각의 인텐트와 응답을 만들어 보세요.
 
 # Header 1
 ## Header 2
